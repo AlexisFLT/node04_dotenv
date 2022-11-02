@@ -1,0 +1,22 @@
+{
+  "name": "node04_dotenv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisFLT/node04_dotenv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisFLT/node04_dotenv/issues"
+  },
+  "homepage": "https://github.com/AlexisFLT/node04_dotenv#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
